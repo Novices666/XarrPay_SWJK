@@ -1,0 +1,1 @@
+{"root":["./src/axiostools.ts","./src/main.ts","./src/vite-env.d.ts","./src/tstypes/configinterface.ts","./src/app.vue","./src/components/check.vue","./src/components/login.vue","./src/components/start.vue"],"version":"5.6.2"}
